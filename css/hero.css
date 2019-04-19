@@ -1,17 +1,25 @@
 header{
-	background-color: #0000ffff;
+	background-color: #f2aedb;
 	padding: 40px;
 	text-align: center;
 }
 
 h1{
-	font-size: 90px;
+	font-size: 65px;
 	color: white;
+	font-style: oblique;
+	font-family: "Arial";
 }
 
 header img{
 border-radius: 150px;
+width: 300px;
+
+{
+
+}
 }
 /*			<img src="img/profile.png">
 			<h1>Frankie</h1>
 		</header>
+
