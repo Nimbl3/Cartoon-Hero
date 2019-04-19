@@ -1,6 +1,8 @@
 html, body{
     font-family: sans-serif;
     margin: 0;
+    text-align: center;
+    background-color: #fbdcef;
 }
 header{
 	background-color: #f2aedb;
@@ -13,7 +15,9 @@ h1{
 	color: white;
 	font-style: oblique;
 }
-
+h2{
+	background-color: #f2aedb;
+}
 header img{
 border-radius: 150px;
 width: 300px;
@@ -22,9 +26,12 @@ width: 300px;
 
 }
 }
+footer{
+	background-color: #f2aedb;
+}
 footer ul li{
     display: inline-block;
-    margin: 0 10px;
+
 }
 /*			<img src="img/profile.png">
 			<h1>Frankie</h1>
